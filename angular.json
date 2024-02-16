@@ -180,5 +180,8 @@
       }
     }
   },
-  "defaultProject": "demo-ngx-openlayers"
+  "defaultProject": "demo-ngx-openlayers",
+  "cli": {
+    "analytics": "580922fb-49d4-4609-a25c-ff29c811432d"
+  }
 }
